@@ -3,6 +3,7 @@ name = "parsely"
 version = "0.0.0"
 authors = ["Nikolai Vazquez <nikvzqz@gmail.com>"]
 license = "MIT OR Apache-2.0"
+readme = "README.md"
 categories = ["no-std", "parsing", "text-processing"]
 keywords = ["parse"]
 description = "[WIP] Parsing primitives."
