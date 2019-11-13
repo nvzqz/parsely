@@ -1,0 +1,17 @@
+[package]
+name = "parsely"
+version = "0.0.0"
+authors = ["Nikolai Vazquez <nikvzqz@gmail.com>"]
+license = "MIT OR Apache-2.0"
+categories = ["no-std", "parsing", "text-processing"]
+keywords = ["parse"]
+description = "[WIP] Parsing primitives."
+edition = "2018"
+
+[badges]
+is-it-maintained-open-issues = { repository = "nvzqz/parsely" }
+is-it-maintained-issue-resolution = { repository = "nvzqz/parsely" }
+maintenance = { status = "actively-developed" }
+
+[features]
+std = []
